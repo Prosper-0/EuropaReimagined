@@ -1,0 +1,17 @@
+#1518 - Khamvong
+
+owner = KHA
+controller = KHA
+capital = "Khamvong"
+culture = polish
+religion = catholic
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 1
+is_city = yes
+add_core = KHA
+
+
+discovered_by = saengsaii
